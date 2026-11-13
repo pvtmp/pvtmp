@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="396" viewBox="0 0 900 396" role="img" aria-label="Terminal: Tharindu Madushan, Founder and Full-Stack Engineer">
+<defs><clipPath id="win"><rect width="900" height="396" rx="12"/></clipPath>
+<linearGradient id="bar" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1c2230"/><stop offset="1" stop-color="#161b26"/></linearGradient>
+<linearGradient id="scan" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3fb950" stop-opacity="0"/><stop offset="0.5" stop-color="#3fb950" stop-opacity="0.07"/><stop offset="1" stop-color="#3fb950" stop-opacity="0"/></linearGradient></defs>
+<style>
+.t{font:500 15px 'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'DejaVu Sans Mono',monospace;white-space:pre}
+.p{fill:#3fb950} .c{fill:#e6edf3} .o{fill:#79c0ff} .g{fill:#56d364}
+.title{font:500 12px 'SFMono-Regular',Consolas,monospace;fill:#8b949e}
+.rain{font:13px monospace;writing-mode:vertical-rl;text-orientation:upright;letter-spacing:4px;fill:#3fb950;opacity:.07;animation-name:fall;animation-timing-function:linear;animation-iteration-count:infinite}
+.scan{animation:scan 6s linear infinite}
+@keyframes fall{to{transform:translateY(616px)}}
+@keyframes scan{from{transform:translateY(-80px)}to{transform:translateY(396px)}}
+@keyframes hide{to{opacity:0}} @keyframes show{to{opacity:1}} @keyframes blink{50%{opacity:0}}
+.pv0{animation:hide 0.01s linear 0.60s forwards}
+.cv0{animation:type0 0.42s steps(6) 0.60s forwards}
+@keyframes type0{to{transform:translateX(728.0px)}}
+.cv1{animation:type1 0.25s steps(10) 1.37s forwards}
+@keyframes type1{to{transform:translateX(872.0px)}}
+.pv2{animation:hide 0.01s linear 1.92s forwards}
+.cv2{animation:type2 1.19s steps(17) 1.92s forwards}
+@keyframes type2{to{transform:translateX(728.0px)}}
+.cv3{animation:type3 0.25s steps(10) 3.46s forwards}
+@keyframes type3{to{transform:translateX(872.0px)}}
+.pv4{animation:hide 0.01s linear 4.01s forwards}
+.cv4{animation:type4 1.26s steps(18) 4.01s forwards}
+@keyframes type4{to{transform:translateX(728.0px)}}
+.cv5{animation:type5 0.25s steps(10) 5.62s forwards}
+@keyframes type5{to{transform:translateX(872.0px)}}
+.pv6{animation:hide 0.01s linear 6.17s forwards}
+.cv6{animation:type6 0.70s steps(10) 6.17s forwards}
+@keyframes type6{to{transform:translateX(728.0px)}}
+.cv7{animation:type7 0.25s steps(10) 7.22s forwards}
+@keyframes type7{to{transform:translateX(872.0px)}}
+.pv8{animation:hide 0.01s linear 7.77s forwards}
+.cv8{animation:type8 2.03s steps(29) 7.77s forwards}
+@keyframes type8{to{transform:translateX(728.0px)}}
+.cv9{animation:type9 0.25s steps(9) 10.15s forwards}
+@keyframes type9{to{transform:translateX(872.0px)}}
+.pv10{animation:hide 0.01s linear 10.70s forwards}
+.cv10{animation:type10 1.75s steps(25) 10.70s forwards}
+@keyframes type10{to{transform:translateX(728.0px)}}
+.cv11{animation:type11 0.25s steps(7) 12.80s forwards}
+@keyframes type11{to{transform:translateX(872.0px)}}
+.f{opacity:0;animation:show 0.01s linear 13.35s forwards}
+.cur{opacity:0;animation:show 0.01s linear 13.35s forwards, blink 1s steps(1) 13.35s infinite}
+@media (prefers-reduced-motion:reduce){[class^=cv],[class^=pv]{display:none} .f,.cur{opacity:1;animation:none} .rain,.scan{animation:none}}
+</style>
+<g clip-path="url(#win)">
+<rect width="900" height="396" fill="#0b0f17"/>
+<rect width="900" height="36" fill="url(#bar)"/>
+<circle cx="22" cy="18" r="6" fill="#ff5f57"/><circle cx="42" cy="18" r="6" fill="#febc2e"/><circle cx="62" cy="18" r="6" fill="#28c840"/>
+<text x="450.0" y="22" text-anchor="middle" class="title">tharindu@dev: ~ — zsh — 120×32</text>
+<text x="28" y="78" class="t" xml:space="preserve"><tspan class="p">tharindu@dev:~$ </tspan><tspan class="c">whoami</tspan></text>
+<rect class="pv0" x="26" y="61" width="146.0" height="22" fill="#0b0f17"/>
+<rect class="cv0" x="172.0" y="61" width="728.0" height="22" fill="#0b0f17"/>
+<text x="28" y="102" class="t" xml:space="preserve"><tspan class="o">Tharindu Madushan :: Entrepreneur · Founder · Full-Stack Engineer</tspan></text>
+<rect class="cv1" x="28.0" y="85" width="872.0" height="22" fill="#0b0f17"/>
+<text x="28" y="126" class="t" xml:space="preserve"><tspan class="p">tharindu@dev:~$ </tspan><tspan class="c">cat ./company.txt</tspan></text>
+<rect class="pv2" x="26" y="109" width="146.0" height="22" fill="#0b0f17"/>
+<rect class="cv2" x="172.0" y="109" width="728.0" height="22" fill="#0b0f17"/>
+<text x="28" y="150" class="t" xml:space="preserve"><tspan class="o">CEO of a US-registered software company · building since 2014</tspan></text>
+<rect class="cv3" x="28.0" y="133" width="872.0" height="22" fill="#0b0f17"/>
+<text x="28" y="174" class="t" xml:space="preserve"><tspan class="p">tharindu@dev:~$ </tspan><tspan class="c">./business --stats</tspan></text>
+<rect class="pv4" x="26" y="157" width="146.0" height="22" fill="#0b0f17"/>
+<rect class="cv4" x="172.0" y="157" width="728.0" height="22" fill="#0b0f17"/>
+<text x="28" y="198" class="t" xml:space="preserve"><tspan class="g">[✔] global customers · 190+ countries · millions of users/month</tspan></text>
+<rect class="cv5" x="28.0" y="181" width="872.0" height="22" fill="#0b0f17"/>
+<text x="28" y="222" class="t" xml:space="preserve"><tspan class="p">tharindu@dev:~$ </tspan><tspan class="c">ls ./stack</tspan></text>
+<rect class="pv6" x="26" y="205" width="146.0" height="22" fill="#0b0f17"/>
+<rect class="cv6" x="172.0" y="205" width="728.0" height="22" fill="#0b0f17"/>
+<text x="28" y="246" class="t" xml:space="preserve"><tspan class="o">laravel  vue  python  fastapi  next.js  redis  docker  linux</tspan></text>
+<rect class="cv7" x="28.0" y="229" width="872.0" height="22" fill="#0b0f17"/>
+<text x="28" y="270" class="t" xml:space="preserve"><tspan class="p">tharindu@dev:~$ </tspan><tspan class="c">sudo ./security-audit --owasp</tspan></text>
+<rect class="pv8" x="26" y="253" width="146.0" height="22" fill="#0b0f17"/>
+<rect class="cv8" x="172.0" y="253" width="728.0" height="22" fill="#0b0f17"/>
+<text x="28" y="294" class="t" xml:space="preserve"><tspan class="g">[✔] zero-trust · input validation · secure auth · 0 vulns</tspan></text>
+<rect class="cv9" x="28.0" y="277" width="872.0" height="22" fill="#0b0f17"/>
+<text x="28" y="318" class="t" xml:space="preserve"><tspan class="p">tharindu@dev:~$ </tspan><tspan class="c">./deploy --env=production</tspan></text>
+<rect class="pv10" x="26" y="301" width="146.0" height="22" fill="#0b0f17"/>
+<rect class="cv10" x="172.0" y="301" width="728.0" height="22" fill="#0b0f17"/>
+<text x="28" y="342" class="t" xml:space="preserve"><tspan class="g">[✔] build passed · all systems operational</tspan></text>
+<rect class="cv11" x="28.0" y="325" width="872.0" height="22" fill="#0b0f17"/>
+<text x="28" y="366" class="t f" xml:space="preserve"><tspan class="p">tharindu@dev:~$ </tspan></text>
+<rect class="cur" x="172.0" y="352" width="9" height="17" fill="#3fb950"/>
+<text class="rain" x="6" y="-200" style="animation-duration:13.3s;animation-delay:-3.0s">ケウ&lt;1ア#イコ$1</text>
+<text class="rain" x="36" y="-200" style="animation-duration:7.0s;animation-delay:-3.1s">ア&gt;&gt;アカア#&gt;1$</text>
+<text class="rain" x="66" y="-200" style="animation-duration:8.3s;animation-delay:-2.0s">$1$$&lt;1カ1#ウ</text>
+<text class="rain" x="96" y="-200" style="animation-duration:6.8s;animation-delay:-10.0s">イ$ク#エイ$$オコ</text>
+<text class="rain" x="126" y="-200" style="animation-duration:8.9s;animation-delay:-3.5s">$1オ{#&gt;ケ/$/</text>
+<text class="rain" x="156" y="-200" style="animation-duration:10.9s;animation-delay:-1.0s">エカア$ク}{ケ/ク</text>
+<text class="rain" x="186" y="-200" style="animation-duration:10.6s;animation-delay:-12.3s">}&gt;エケウ{&gt;1ア#</text>
+<text class="rain" x="216" y="-200" style="animation-duration:11.6s;animation-delay:-0.9s">ケケコ{$/アアキ{</text>
+<text class="rain" x="246" y="-200" style="animation-duration:10.9s;animation-delay:-6.9s">ク$/ク&lt;コ0/コエ</text>
+<text class="rain" x="276" y="-200" style="animation-duration:9.2s;animation-delay:-3.9s">オクウカ&lt;&lt;{アエ/</text>
+<text class="rain" x="306" y="-200" style="animation-duration:7.4s;animation-delay:-3.2s">ウ&gt;#キ&gt;コ&lt;カウア</text>
+<text class="rain" x="336" y="-200" style="animation-duration:10.3s;animation-delay:-8.5s">カ0{$エキク0ウ&gt;</text>
+<text class="rain" x="366" y="-200" style="animation-duration:6.8s;animation-delay:-8.9s">ケウ}1/#&lt;&lt;&lt;&lt;</text>
+<text class="rain" x="396" y="-200" style="animation-duration:6.0s;animation-delay:-2.1s">1オアオ/エイケ1イ</text>
+<text class="rain" x="426" y="-200" style="animation-duration:9.8s;animation-delay:-1.6s">イコ0アオ&lt;ウキココ</text>
+<text class="rain" x="456" y="-200" style="animation-duration:9.8s;animation-delay:-9.7s">{/{{クアウイケキ</text>
+<text class="rain" x="486" y="-200" style="animation-duration:13.8s;animation-delay:-12.1s">}0オ}コウ#0}ク</text>
+<text class="rain" x="516" y="-200" style="animation-duration:11.1s;animation-delay:-8.6s">キ}コエコカ##}ケ</text>
+<text class="rain" x="546" y="-200" style="animation-duration:12.3s;animation-delay:-6.6s">オカ&lt;カオ}{コ00</text>
+<text class="rain" x="576" y="-200" style="animation-duration:7.6s;animation-delay:-2.9s">オコ/ココアカイカ{</text>
+<text class="rain" x="606" y="-200" style="animation-duration:12.3s;animation-delay:-4.7s">0{コアイ&lt;オ{エ&gt;</text>
+<text class="rain" x="636" y="-200" style="animation-duration:13.2s;animation-delay:-11.3s">&lt;/&lt;アエエウ0ウ$</text>
+<text class="rain" x="666" y="-200" style="animation-duration:10.2s;animation-delay:-13.1s">ウ{コウ##ウ00イ</text>
+<text class="rain" x="696" y="-200" style="animation-duration:8.6s;animation-delay:-7.6s">&gt;オオ0キオク}カ$</text>
+<text class="rain" x="726" y="-200" style="animation-duration:7.2s;animation-delay:-7.1s">ウ1コ/$}&gt;}ウ#</text>
+<text class="rain" x="756" y="-200" style="animation-duration:8.6s;animation-delay:-7.3s">/エ0ウエウ{イ#1</text>
+<text class="rain" x="786" y="-200" style="animation-duration:10.1s;animation-delay:-7.9s">#{イ#1カオキ1イ</text>
+<text class="rain" x="816" y="-200" style="animation-duration:12.5s;animation-delay:-7.1s">ア/ケ}}オキ/}#</text>
+<text class="rain" x="846" y="-200" style="animation-duration:9.5s;animation-delay:-1.0s">カ}キ#オ/ウ&gt;イ&lt;</text>
+<text class="rain" x="876" y="-200" style="animation-duration:13.1s;animation-delay:-13.5s">カ&gt;アオクイウコウキ</text>
+<rect class="scan" width="900" height="80" fill="url(#scan)"/>
+</g>
+<rect x=".5" y=".5" width="899" height="395" rx="12" fill="none" stroke="#30363d"/>
+</svg>
